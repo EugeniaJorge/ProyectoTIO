@@ -1,5 +1,5 @@
-#Proyecto TIO 
-##integrantes
+# Proyecto TIO 
+## integrantes
 Eugenia Jorge eugeniajorge95@gmail.com 
 Francisco Nocetti francisconocetti21@gmail.com
 julieta laborde julilaborde21@gmail.com
