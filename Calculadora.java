@@ -18,6 +18,12 @@ class calculadora {
       if (letra == 'a'|| letra =='A'){
         sumar(numero1,numero2);
       }
+      if (letra == 'b'|| letra =='B'){
+        restar(numero1,numero2);
+      }
+      if (letra == 'c'|| letra =='C'){
+        multiplicar(numero1,numero2);
+      }
       
     }catch (Exception exc){
       System.out.println(exc);
@@ -25,6 +31,9 @@ class calculadora {
   }
 	public static void sumar(double n1, double n2){
       System.out.println(n1+n2);
+    }
+	public static void multiplicar(double n1, double n2){
+      System.out.println(n1*n2);
     }
 	public static void restar(double n1, double n2) {
 		System.out.println(n1-n2);
