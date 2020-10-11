@@ -1,7 +1,0 @@
-# Proyecto TIO 
-## integrantes
-Eugenia Jorge eugeniajorge95@gmail.com 
-Francisco Nocetti francisconocetti21@gmail.com
-julieta laborde julilaborde21@gmail.com
-Eliana Melina Choque Albornoz elianamchoque@gmail.com
-Jonatan Moreno jonatan.a.moreno@gmail.com 
