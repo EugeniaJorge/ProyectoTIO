@@ -5,6 +5,9 @@ h1 {
      font-size: 40px;
      font-weight: normal;
 }
+h2{
+    color: white;
+}
 body{
     background: blue
 }
