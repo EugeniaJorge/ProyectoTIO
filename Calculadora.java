@@ -24,6 +24,9 @@ class calculadora {
       if (letra == 'c'|| letra =='C'){
         multiplicar(numero1,numero2);
       }
+      if (letra == 'd'|| letra =='D'){
+        dividir(numero1,numero2);
+      }
       
     }catch (Exception exc){
       System.out.println(exc);
@@ -34,6 +37,9 @@ class calculadora {
     }
 	public static void multiplicar(double n1, double n2){
       System.out.println(n1*n2);
+    }
+	public static void dividir(double n1, double n2){
+      System.out.println(n1/n2);
     }
 	public static void restar(double n1, double n2) {
 		System.out.println(n1-n2);
