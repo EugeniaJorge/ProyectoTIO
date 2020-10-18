@@ -8,5 +8,6 @@ function iniciarPagina(){
     botonAgregar.addEventListener("click", function (e) {
       e.preventDefault;
       alert("hola mundo");
+      alert("archivo modificado");
 
     });
